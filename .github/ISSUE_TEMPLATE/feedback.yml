@@ -1,0 +1,21 @@
+name: Feedback or Idea
+description: Suggest an improvement or share feedback
+labels: ["feedback"]
+body:
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      options:
+        - LogNorth
+        - Fusionaly
+        - Pomotto
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: What's on your mind?
+      placeholder: Tell me what you'd like to see.
+    validations:
+      required: true
