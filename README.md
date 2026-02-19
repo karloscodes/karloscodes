@@ -1,6 +1,6 @@
 ### Hi, I'm Carlos
 
-I build calm, self-hosted tools for developers.
+Simplifying things that don't need to be complicated.
 
 - [LogNorth](https://lognorth.dev) — Self-hosted error tracking
 - [Fusionaly](https://fusionaly.com) — Privacy-first web analytics
