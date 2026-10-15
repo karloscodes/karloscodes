@@ -2,12 +2,6 @@
 
 Simplifying things that don't need to be complicated.
 
-#### Products
-
-- [SuppyHQ](https://suppyhq.com) — Email and payments in one inbox. Customer context, before you type a word.
-- [LogNorth](https://lognorth.com) — Self-hosted logging. Errors and logs in one place.
-- [Pomotto](https://pomotto.app) — Pomodoro timer for Mac. Blocks distractions automatically.
-
 #### Open Source
 
 - [Fusionaly](https://github.com/karloscodes/fusionaly-oss) — Self-hosted web analytics. One SQLite file, one container.
